@@ -1,0 +1,10 @@
+---
+layout:     post
+title:      7 Habits
+subtitle:   Oh My God
+date:       2015-07-12 12:00:00
+author:     Sara Jahan
+header-img: "img/post-bg-02.jpg"
+---
+
+Test 2.
